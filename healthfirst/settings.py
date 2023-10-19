@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-tes3103-birkeye-django-b-xhkm4nyhzd.us2.codeanyapp.com',
-                 'health-first-2023.herokuapp.com', 'localhost']
+                 'health-first-2023-69a65cbb727c.herokuapp.com', 'localhost']
 
 
 # Application definition
